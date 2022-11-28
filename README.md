@@ -1,8 +1,6 @@
 - 👋 Oi, Eu sou @biancaissa
-- 👀 Estou interessada em QA Tester 
 - 🌱 Atualmente estou estudando Do requisito à execução de testes
-- 💞️ Estou a procura do Primeiro emprego em TI 
-
+- 💞️ Estagiaria de QA
 <div> 
 <a href="mailto:contatoraissa.bianca@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" ></a>
 <a href="https://www.instagram.com/bianca_issa_issa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
